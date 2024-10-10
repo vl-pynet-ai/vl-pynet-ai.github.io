@@ -1,0 +1,4 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "kube"  # Stelle sicher, dass dies dem Namen des Themes entspricht
