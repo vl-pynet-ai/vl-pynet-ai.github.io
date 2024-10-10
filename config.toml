@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://vl-pynet-ai.github.io/"
 languageCode = "en-us"
 title = "Kube for Hugo"
 theme = "kube"
